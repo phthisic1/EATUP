@@ -1,6 +1,12 @@
 # EATUP
-proposal | https://github.com/phthisic/EATUP/wiki/DECO7350-Proposal
+### proposal
 
-user research | https://github.com/phthisic/EATUP/wiki/work-progress:-user-research
+https://github.com/phthisic/EATUP/wiki/DECO7350-Proposal
 
-prototype design | https://github.com/phthisic/EATUP/wiki/work-progress:-prototype-design
+### user research
+
+https://github.com/phthisic/EATUP/wiki/work-progress:-user-research
+
+### prototype design
+
+https://github.com/phthisic/EATUP/wiki/work-progress:-prototype-design
