@@ -10,3 +10,7 @@ https://github.com/phthisic/EATUP/wiki/work-progress:-user-research
 ### prototype design
 
 https://github.com/phthisic/EATUP/wiki/work-progress:-prototype-design
+
+### design process
+
+
